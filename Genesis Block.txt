@@ -1,0 +1,35 @@
+
+Genesis Block Input Parameters
+			
+Timestamp Message   : I am learning coin development on this day of 2021
+Timestamp           : 1638702656 
+Block Rewards       : 100
+PUB Secretkey       : 081084710fa689ad5023690c80f3a49c8f13f8d45b8c857fbcbc8bc4a8e4d3eb4b10f4d4604fa08dce601aaf0f470216fe1b51850b4acf21b179c45070ac7b03a9
+    
+    
+    
+------------------------------Main Net--------------------------------------------------------
+  
+Time Stamp	    : 1638702656
+Bits			: 0x1e0ffff0
+Nonce			: 2001248654
+Merkle  Hash	: 0xf9e103cc6ac923c15d969827558ae92c92fecac620e709a835409e9b5459fdcf
+Genesis Hash	: 0x7f8a5b80de42f8e76f5d855b28a473cd56afc8548a36ccd0052696b36e46ec29 
+  
+     
+------------------------------Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1638702656
+Bits			: 0x1e0ffff0
+Nonce			: 157667
+Merkle  Hash	: 0xf9e103cc6ac923c15d969827558ae92c92fecac620e709a835409e9b5459fdcf
+Genesis Hash	: 0x7817d93f9bf299469ee4b766dc302ffe98012551d91c6bda4a8651e0fb738ad7 
+     
+     
+------------------------------Regression Test Net--------------------------------------------------------
+     
+Time Stamp	   : 1638702656
+Bits			: 0x207fffff
+Nonce			: 1
+Merkle  Hash	: 0xf9e103cc6ac923c15d969827558ae92c92fecac620e709a835409e9b5459fdcf
+Genesis Hash	: 0x0ccf62cf9694e4990ac027af68c2a0f0937ff9f1778327866532282acdf8fff9 
